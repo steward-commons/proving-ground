@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+data/runs/
+data/replay/
+data/logbook.jsonl
+data/logbook.md
+data/.keep
+sealed/*
+!sealed/DO_NOT_PEEK.md
+data/*
+!data/.keep
