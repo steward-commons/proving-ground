@@ -9,3 +9,7 @@ sealed/*
 !sealed/DO_NOT_PEEK.md
 data/*
 !data/.keep
+
+# Working copies — never publish or upload
+*.bak*
+*.bak-*
